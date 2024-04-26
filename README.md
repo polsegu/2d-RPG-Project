@@ -1,4 +1,4 @@
-# 2d-RPG-Unity
+# 2d RPG Unity
 
 ![IMG_20170720_144128_466](https://i.postimg.cc/vBXRVK1t/unity-2d-rpg.png)
 > [!NOTE]
